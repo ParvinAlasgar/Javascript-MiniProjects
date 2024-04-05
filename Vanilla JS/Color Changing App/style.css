@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: antiquewhite;
+}
+html #app {
+  padding: 100px 0;
+}
+html #app .container {
+  text-align: center;
+  width: 720px;
+  margin: auto;
+}
+html #app .container h1 {
+  color: chocolate;
+}
+html #app .container .box {
+  width: 100%;
+  height: 500px;
+  margin: 40px 0;
+  background-color: chartreuse;
+}
+html #app .container .btn {
+  border: 1px solid dark;
+  padding: 10px;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */
