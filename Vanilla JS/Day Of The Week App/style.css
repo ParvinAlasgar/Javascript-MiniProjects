@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+#app .container {
+  width: 750px;
+  margin: 100px auto;
+}
+#app .container .content {
+  text-align: center;
+}
+#app .container .content h1 {
+  font-size: 50px;
+  color: #1dcc97;
+}
+#app .container .content h2 {
+  font-size: 37px;
+  color: rgb(34, 28, 197);
+}
+
+/*# sourceMappingURL=style.css.map */
